@@ -1,0 +1,11 @@
+{
+  "name": "sunsetlabs.io",
+  "version": "1.0.0",
+  "description": "Sunset Labs website",
+  "main": "index.html",
+  "author": "Tim Whitacre",
+  "license": "MIT",
+  "scripts": {
+    "start": "tailwindcss -i ./src/source.css -o ./public/styles.css --watch"
+  }
+}
