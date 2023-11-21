@@ -21,7 +21,7 @@ export default {
         yellow: '#f8ed51',
         white: '#FFFFFF',
         black: '#1a1a1a',
-        gray: '#999999',
+        gray: '#d6d6d6',
       },
       fontFamily: {
         sans: ['Karla', 'sans-serif'],       
